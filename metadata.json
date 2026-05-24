@@ -1,0 +1,6 @@
+{
+  "name": "Fake News Detector",
+  "description": "An advanced real-time news credibility and fact-checking analyzer, incorporating interactive NLP, Naive Bayes, and LSTM model simulations alongside search-grounded Gemini AI core insights to verify information in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
